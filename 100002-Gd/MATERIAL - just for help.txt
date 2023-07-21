@@ -13,7 +13,8 @@ electrocaloric  FALSE
 barocaloric  FALSE
 elastocaloric  FALSE
 thermoelectric  FALSE
-hysteresis  TRUE
+cpThysteresis  FALSE
+dTThysteresis	TRUE
 
 Vectors:
 magnetic_fields	YES
