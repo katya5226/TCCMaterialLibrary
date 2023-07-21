@@ -1,6 +1,5 @@
-{
-  "density": "0-326",
-  "specificHeatCapacity": "0-326",
-  "thermalConductivity": "0-326",
-  "emissivity": ""
-}
+Density	0-326
+Specific heat capacity	0-326
+Thermal conductivity	0-326
+Adiabatic temperature change 0-326
+Emissivity
