@@ -3,5 +3,5 @@
   "specificHeatCapacity": "0-326",
   "thermalConductivity": "0-326",
   "adiabaticTemperatureChange": "0-326",
-  "emissivity": ""
+  "emissivity": "242-344"
 }
