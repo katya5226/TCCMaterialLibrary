@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+        "density": 7100.0,
+        "specificHeatCapacity": 607.0,
+        "thermalConductivity": 7.2,
+        "emissivity": ""
+	},
+	"ranges": {
+        "density": "290-300",
+        "specificHeatCapacity": "325-355",
+        "thermalConductivity": "290-300",
+        "adiabaticTemperatureChange": "325-354",
+        "emissivity": ""
+	},
+	"id": 100003,
+	"short_name": "LaFeMnSiH",
+	"long_name": "LaFeMnSiH",
+	"melting_point": ""
+}
