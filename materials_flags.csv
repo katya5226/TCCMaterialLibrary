@@ -1,8 +1,8 @@
-,invariant,thermoelectric,temperature_induced_phase_change,electrocaloric,magnetocaloric,barocaloric,elastocaloric,cpThysteresis,dTThysteresis,kThysteresis
+name,invariant,thermoelectric,temperature_induced_phase_change,electrocaloric,magnetocaloric,barocaloric,elastocaloric,cpThysteresis,dTThysteresis,kThysteresis
 100001-Inox,1,,,,,,,,,
 100002-Gd,,,,,1,,,,,
 500001-Si,1,,,,,,,,,
-100003-LaFeMnSiH,,,,,1,,0,1,1,
+100003-LaFeMnSiH,,,,,1,,,1,1,
 200001-LaCoO,1,,,,,,,,,
 200002-LaSrCoO,1,,,,,,,,,
 500002-AgTe,,,1,,,,,,,
@@ -13,4 +13,4 @@
 200003-Quartz,1,,,,,,,,,
 510005-MoS,1,,,,,,,,,
 500006-Graphite,1,,,,,,,,,
-100004-NiTi,0,,1,,,,1,,,
+100004-NiTi,,,1,,,,1,,,
