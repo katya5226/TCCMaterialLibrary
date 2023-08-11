@@ -11,6 +11,7 @@
 		"thermalConductivity": "280-600",
 		"emissivity": ""
 	},
+	"fields": [],
 	"id": 500004,
 	"short_name": "AgSSe",
 	"long_name": "Ag2S0.8Se0.2",

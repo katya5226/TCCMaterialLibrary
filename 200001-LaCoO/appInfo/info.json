@@ -11,6 +11,7 @@
 		"thermalConductivity": "0-200",
 		"emissivity": "293-572"
 	},
+	"fields": [],
 	"id": 200001,
 	"short_name": "LaCoO",
 	"long_name": "Perovskite Oxide LaCoO3",

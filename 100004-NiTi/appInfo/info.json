@@ -11,6 +11,7 @@
         "thermalConductivity": "280-380",
         "emissivity": ""
 	},
+	"fields": [],
 	"id": 100004,
 	"short_name": "NiTi",
 	"long_name": "Nitinol",

@@ -11,6 +11,7 @@
 		"thermalConductivity": "0-200",
 		"emissivity": ""
 	},
+	"fields": [],
 	"id": 200002,
 	"short_name": "LaSrCoO",
 	"long_name": "Perovskite Oxide La0.7Sr0.3CoO3",

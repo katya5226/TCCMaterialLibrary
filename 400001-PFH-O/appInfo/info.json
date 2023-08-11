@@ -11,6 +11,7 @@
 		"thermalConductivity": "250-350",
 		"emissivity": ""
 	},
+	"fields": [],
 	"id": 400001,
 	"short_name": "P(VDF_TrFE)",
 	"long_name": "P(VDF_TrFE)",
