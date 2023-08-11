@@ -11,6 +11,7 @@
 		"thermalConductivity": "20-273",
 		"emissivity": "290-320"
 	},
+	"fields": [],
 	"id": 200003,
 	"short_name": "Quartz-SiO₂",
 	"long_name": "Silicon dioxide",

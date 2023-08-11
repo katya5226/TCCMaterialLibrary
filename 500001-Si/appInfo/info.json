@@ -11,6 +11,7 @@
 		"thermalConductivity": "0-2000",
 		"emissivity": "240-340"
 	},
+	"fields": [],
 	"id": 500001,
 	"short_name": "Si",
 	"long_name": "Silicon",

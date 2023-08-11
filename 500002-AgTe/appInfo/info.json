@@ -11,6 +11,7 @@
 		"thermalConductivity": "280-600",
 		"emissivity": ""
 	},
+	"fields": [],
 	"id": 500002,
 	"short_name": "AgTe",
 	"long_name": "Ag2Te",

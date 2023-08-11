@@ -12,6 +12,7 @@
 		"adiabaticTemperatureChange": "0-326",
 		"emissivity": "242-344"
 	},
+	"fields": [0.0,0.5,1.0,1.5,2.0],
 	"id": 100002,
 	"short_name": "Gadolinium",
 	"long_name": "Gadolinium",

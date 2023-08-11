@@ -11,6 +11,7 @@
 		"thermalConductivity": "50-600",
 		"emissivity": ""
 	},
+	"fields": [],
 	"id": 510005,
 	"short_name": "Mo2",
 	"long_name": "MoS2 thin film",
