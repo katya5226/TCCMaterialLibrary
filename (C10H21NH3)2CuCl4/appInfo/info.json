@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+		"density":1243.0 ,
+		"specificHeatCapacity":525.7671428571429,
+		"thermalConductivity":0.5,
+		"emissivity":""
+	},
+	"ranges": {
+		"density": "290-300",
+		"specificHeatCapacity": "78-373",
+		"thermalConductivity": "290-300",
+		"emissivity": ""
+	},
+	"fields": [],
+	"id": -1,
+	"short_name": "(C10H21NH3)2CuCl4 ",
+	"long_name": "",
+	"melting_point": -1
+}
