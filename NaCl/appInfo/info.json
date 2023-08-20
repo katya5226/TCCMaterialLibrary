@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+		"density": 2170.0,
+		"specificHeatCapacity":855.91874,
+		"thermalConductivity": 6.078399999999999,
+		"emissivity": ""
+	},
+	"ranges": {
+		"density": "290-300",
+		"specificHeatCapacity": "200-600",
+		"thermalConductivity": "4-373",
+		"emissivity": ""
+	},
+	"fields": [],
+	"id": -1,
+	"short_name": "",
+	"long_name": "",
+	"melting_point": -1
+}
