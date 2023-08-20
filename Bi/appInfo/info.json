@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+		"density":9909.27 ,
+		"specificHeatCapacity":121.9729294403893,
+		"thermalConductivity": 8.235063564403934,
+		"emissivity":
+	},
+	"ranges": {
+		"density": "294-1725",
+		"specificHeatCapacity": "0-951",
+		"thermalConductivity": "2-1107",
+		"emissivity": ""
+	},
+	"fields": [],
+	"id": -1,
+	"short_name": "Bi",
+	"long_name": "",
+	"melting_point": 545
+}

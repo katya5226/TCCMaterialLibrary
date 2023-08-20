@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+		"density":8971.135069331158 ,
+		"specificHeatCapacity":385.777153171738,
+		"thermalConductivity": 358.251063174114,
+		"emissivity":
+	},
+	"ranges": {
+		"density": "271-2435",
+		"specificHeatCapacity": "0-1994",
+		"thermalConductivity": "0-2505",
+		"emissivity": ""
+	},
+	"fields": [],
+	"id": -1,
+	"short_name": "Cu",
+	"long_name": "",
+	"melting_point": 1357
+}

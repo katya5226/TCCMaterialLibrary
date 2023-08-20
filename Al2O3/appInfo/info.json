@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+		"density": 3970.0,
+		"specificHeatCapacity": 1240.17,
+		"thermalConductivity": 34.44,
+		"emissivity": ""
+	},
+	"ranges": {
+		"density": "290-300",
+		"specificHeatCapacity": "299-524",
+		"thermalConductivity": "299-524",
+		"emissivity": ""
+	},
+	"fields": [],
+	"id": -1,
+	"short_name": "Al",
+	"long_name": "Al203",
+	"melting_point": -1
+}
