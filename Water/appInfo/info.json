@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+		"density": 998.10643,
+		"specificHeatCapacity": 4184.7524,
+		"thermalConductivity": 0.59762962,
+		"emissivity": ""
+	},
+	"ranges": {
+		"density": "280-1000",
+		"specificHeatCapacity": "280-1000",
+		"thermalConductivity": "280-1000",
+		"emissivity": ""
+	},
+	"fields": [],
+	"id": -1,
+	"short_name": "Water",
+	"long_name": "Water",
+	"melting_point": -1
+}

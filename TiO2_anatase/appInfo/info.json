@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+		"density": 3894.0,
+		"specificHeatCapacity": 683.9701,
+		"thermalConductivity": 11.323511868533169,
+		"emissivity": ""
+	},
+	"ranges": {
+		"density": "290-300",
+		"specificHeatCapacity": "0-382",
+		"thermalConductivity": "99-797",
+		"emissivity": ""
+	},
+	"fields": [],
+	"id": -1,
+	"short_name": "TiO2_anatase",
+	"long_name": "",
+	"melting_point": -1
+}

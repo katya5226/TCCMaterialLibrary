@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+		"density":4250.0 ,
+		"specificHeatCapacity":683.9701,
+		"thermalConductivity": 8.401799881586738,
+		"emissivity": ""
+	},
+	"ranges": {
+		"density": "290-300",
+		"specificHeatCapacity": "0-382",
+		"thermalConductivity": "100-799",
+		"emissivity": ""
+	},
+	"fields": [],
+	"id": -1,
+	"short_name": "TiO2_rutile",
+	"long_name": "",
+	"melting_point": -1
+}
