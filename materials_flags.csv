@@ -14,3 +14,5 @@ name,invariant,thermoelectric,temperature_induced_phase_change,electrocaloric,ma
 510005-MoS,1,,,,,,,,,
 500006-Graphite,1,,,,,,,,,
 100004-NiTi,,,1,,,,,,,1
+100005-Ag,1,,,,,,,,,
+200004-BeO,1,,,,,,,,,
