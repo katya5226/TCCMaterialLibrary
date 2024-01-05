@@ -1,8 +1,8 @@
 name,invariant,thermoelectric,temperature_induced_phase_change,electrocaloric,magnetocaloric,barocaloric,elastocaloric,cpThysteresis,dTThysteresis,kThysteresis,cpFields
 100001-Inox,1,,,,,,,,,,
-100002-Gd,,,,,1,,,,1,,1
+100002-Gd,,,,,1,,,,,,1
 500001-Si,1,,,,,,,,,,
-100003-LaFeMnSiH,,,,,1,,,1,1,,1
+100003-LaFeMnSiH,,,,,1,,,1,,,1
 200001-LaCoO,1,,,,,,,,,,
 200002-LaSrCoO,1,,,,,,,,,,
 500002-AgTe,,,1,,,,,,,,
