@@ -88,3 +88,7 @@ name,invariant,thermoelectric,phase_change_material,electrocaloric,magnetocalori
 100034-LaFeCoSi,,,,,1,,,,,,1,
 100035-LaFeCoSi,,,,,1,,,,,,1,
 100036-LaFeCoSi,,,,,1,,,,,,1,
+200015-TiN,1,,,,,,,,,,,
+200016-Fe2O3,1,,,,,,,,,,,
+200017-SiC,1,,,,,,,,,,,1
+500010-GaN,1,,,,,,,,,,,
