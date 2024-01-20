@@ -7,7 +7,7 @@
 	},
 	"ranges": {
 		"density": "",
-		"specificHeatCapacity": ""273-343,
+		"specificHeatCapacity": "273-343",
 		"thermalConductivity": "",
 		"emissivity": "293-373"
 	},
