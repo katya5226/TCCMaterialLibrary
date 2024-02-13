@@ -11,7 +11,7 @@
 		"thermalConductivity": "",
 		"emissivity": ""
 	},
-	"fields": [0.0, 1.25],
+	"fields": [0.00, 1.25],
 	"id": 100033,
 	"short_name": "LaFeCoSi",
 	"long_name": "LaFeCoSi",

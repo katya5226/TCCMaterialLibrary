@@ -11,7 +11,7 @@
 		"thermalConductivity": "",
 		"emissivity": ""
 	},
-	"fields": [0.0, 0.09, 0.25, 0.35, 0.57],
+	"fields": [0.00, 0.09, 0.25, 0.35, 0.57],
 	"id": 700020,
 	"short_name": "NPG",
 	"long_name": "Neopentyl glycol plastic crystal",

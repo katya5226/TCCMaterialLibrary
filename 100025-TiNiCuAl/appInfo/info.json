@@ -11,7 +11,7 @@
 		"thermalConductivity": "",
 		"emissivity": ""
 	},
-	"fields": [0.0, 6.0],
+	"fields": [0.00, 6.00],
 	"id": 100025,
 	"short_name": "TiNiCuAl",
 	"long_name": " Ti-44Ni-5Cu-1Al",

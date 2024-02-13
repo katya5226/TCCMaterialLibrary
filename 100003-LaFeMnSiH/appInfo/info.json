@@ -11,7 +11,7 @@
 		"thermalConductivity": "",
 		"emissivity": ""
 	},
-	"fields": [0.0, 0.5, 1.0, 1.5],
+	"fields": [0.00, 0.50, 1.00, 1.50],
 	"id": 100003,
 	"short_name": "LaFeMnSiH",
 	"long_name": "La(Fe-Mn0.46-Si)13-H",
