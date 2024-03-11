@@ -1,0 +1,5 @@
+P(VDF_TrFE) thin film thickness 60 microns, from
+Ma - Highly efficient electrocaloric cooling with electrostatic actuation
+
+All data is the same as for the P(VDF_TrFE) with ID 310001, except for the adiabatic temperature changes
+at different electric fields.
