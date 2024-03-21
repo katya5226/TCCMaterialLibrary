@@ -1,0 +1,12 @@
+Polycrystalline bismuth telluride Bi2Te3
+
+Material data for Seebeck coefficient, electrical resistivity and thermal conductivity are taken from
+Witting et al. (2019), DOI: 10.1002/aelm.201800904
+
+Temperature range for the Seebeck coefficient, electrical resistivity and thermal conductivity is 250-550 K.
+
+Data for density, specific heat capacity and melting point taken from https://asia.matweb.com/search/SpecificMaterialPrint.asp?bassnum=dsem14&n=1 (21/3/2024)
+
+Data for emissivity taken from Bowley et al. (1961), DOI 10.1088/0950-7671/38/11/309
+
+Melting point: 858 K

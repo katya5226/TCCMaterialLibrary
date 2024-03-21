@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+		"density": 7730.0,
+		"specificHeatCapacity": 160.0,
+		"thermalConductivity": 2.47,
+		"emissivity": "0.66"
+	},
+	"ranges": {
+		"density": "",
+		"specificHeatCapacity": "",
+		"thermalConductivity": "250-550",
+		"emissivity": ""
+	},
+	"fields": "",
+	"id": 500011,
+	"short_name": "BiTe",
+	"long_name": "Bi2Te3 Bismuth telluride",
+	"melting_point": 858.15
+}
