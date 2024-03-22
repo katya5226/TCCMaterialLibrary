@@ -11,7 +11,7 @@
 		"thermalConductivity": "250-550",
 		"emissivity": ""
 	},
-	"fields": "",
+	"fields": [],
 	"id": 500011,
 	"short_name": "BiTe",
 	"long_name": "Bi2Te3 Bismuth telluride",
