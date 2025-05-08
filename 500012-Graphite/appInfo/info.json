@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+		"density": 1862.14,
+		"specificHeatCapacity": 691.28,
+		"thermalConductivity": "",
+		"emissivity": 0.59
+	},
+	"ranges": {
+		"density": "295-1274",
+		"specificHeatCapacity": "12-2000",
+		"thermalConductivity": "0-268",
+		"emissivity": "270-860"
+	},
+	"fields": [],
+	"id": 500012,
+	"short_name": "Graphite",
+	"long_name": "Graphite AXM 5q",
+	"melting_point": 3870.0
+}

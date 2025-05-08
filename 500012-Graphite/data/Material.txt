@@ -1,0 +1,5 @@
+Bulk graphite AXM 5Q
+
+Thermal conductivity is from Adam L. Woodcraft and Adam Gray: A low temperature thermal conductivity database
+
+The rest of the data is the same as for 500006-Graphite.
