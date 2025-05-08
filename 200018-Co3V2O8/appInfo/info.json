@@ -1,0 +1,19 @@
+{
+	"rt_properties": {
+		"density": "",
+		"specificHeatCapacity": "",
+		"thermalConductivity": "",
+		"emissivity": ""
+	},
+	"ranges": {
+		"density": "",
+		"specificHeatCapacity": "1-60",
+		"thermalConductivity": "0-210",
+		"emissivity": ""
+	},
+	"fields": [],
+	"id": 200018,
+	"short_name": "Co3V2O8",
+	"long_name": "Cobalt vanadate",
+	"melting_point": ""
+}
